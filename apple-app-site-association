@@ -4,7 +4,9 @@
     "details": [
       {
         "appID": "X7DPT956Y2.com.charityfuntila.GrowGoals",
-        "paths": ["*"]
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
